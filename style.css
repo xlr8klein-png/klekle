@@ -1,6 +1,32 @@
- body{
-    background-color: rgba(107, 196, 255, 0.692);
- }
- h1{
-    background-color: rgb(255, 0, 0);
- }
+body {
+    background-color: rgb(62, 2, 2);
+    text-align: center;
+}
+
+h1 {
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(246, 246, 232);
+}
+
+h2 {
+    font-style: italic;
+    color: rgb(243, 239, 236);
+}
+
+.img1 {
+    width: 50%;
+    text-align: center;
+}
+
+h3 {
+    font-style: italic;
+    color: rgb(255, 254, 254);
+}
+
+.lista {
+    text-align: left;
+    font-style: italic;
+    text-decoration: overline;
+    color: ghostwhite;
+}
