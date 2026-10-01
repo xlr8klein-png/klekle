@@ -6,27 +6,12 @@ body {
 h1 {
     font-style: italic;
     font-weight: bold;
-    color: rgb(246, 246, 232);
-}
-
-h2 {
-    font-style: italic;
-    color: rgb(243, 239, 236);
-}
-
-.img1 {
-    width: 50%;
-    text-align: center;
-}
-
-h3 {
-    font-style: italic;
-    color: rgb(255, 254, 254);
+    color: rgb(255, 255, 0);
 }
 
 .lista {
     text-align: left;
     font-style: italic;
     text-decoration: overline;
-    color: ghostwhite;
+    color: rgb(0, 0, 255);
 }
